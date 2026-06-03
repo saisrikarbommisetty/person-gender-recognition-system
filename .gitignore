@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+
+dataset/
+
+models/person_classifier.h5
+models/person_encoder.pkl
+models/X.npy
+models/y.npy
+
+*.pyc
